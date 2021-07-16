@@ -1,0 +1,628 @@
+#header{
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+    height: 218px;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-image: url(file:C:/Users/hp/Desktop/html/1.jpeg) ;
+    background-repeat: repeat-x;
+}
+
+}
+.menu{
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+    
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+
+#header{
+
+    border: cadetblue;
+    border-width: 1px;
+    border-style: solid;
+    background-image: url(file:C:/Users/hp/Desktop/html/1.jpg) ;
+    background-repeat: repeat-x; 
+    background-repeat: repeat-x;
+    background-color: cornflowerblue;
+    background-position:Top ;
+    background-attachment: fixed;
+    
+}
+#header{
+    background-repeat: repeat-x;
+    background-color: cornflowerblue;
+    background-position:Top 10px;
+    background-attachment: fixed;
+}
+#menu ul{}
+.menu{
+    margin-top: 2px;
+    border: rgb(171, 178, 184);
+    border-width: 1px;
+    border-style: solid;
+    width: 1000px;
+    height: 60px;
+    background-image: url(file:///C:/Users/hp/Desktop/html/img/menu.PNG);
+    direction: rtl;
+    text-decoration-color: black;
+    height: 70px;
+    
+
+}
+.menu ul{
+    list-style-type: none;
+    ]
+
+}
+.menu ul li {
+    display: inline;
+    color: rgb(43, 41, 43);
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 10px 10px 10px 10px;
+    border: rgb(57, 57, 59 );
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 11px 11px 11px 11px;
+    
+}
+
+.menu ul{
+    list-style-type: none;
+    margin-top: 15px;
+    margin-right: -36px;   
+}
+.menu a:hover{
+    color: rgb(108, 110, 223);
+}
+.menu a{
+    text-decoration: none;
+    color: rgb(43, 43, 80);
+}
+.menu{
+    height: 60px;
+    width: 1000px;
+    margin-left: 277px;
+    margin-top: -9.7px;
+    text-decoration: none;
+
+}
+.marquee{
+    margin-left: 274px;
+    margin-right: 290px;
+    font-size: 18px;
+    margin-top: -67px;
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+ 
+}
+.marquee{
+    
+    margin-top: 2px;
+    margin-top: -20px;
+    opacity: 1.5;
+    color: black;
+    height: 25px;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    opacity:0.5;
+    
+    
+
+}
+.marquee{
+    margin-top: 2px;
+    text-align: center;
+    
+}
+#Main content{
+    border: hotpink;
+    border-style: solid;
+    border-width: 4px;
+}
+.htmll{
+    text-align: right;
+    text-align: center;
+    color: black;
+}
+.mark{
+   text-align: right;
+   margin-top: 30px;
+   color: black;
+}
+.al{
+    
+    
+}
+.al{
+   
+    background-image: url(file:///C:/Users/hp/Desktop/%D9%88.jpg) ;
+    border-color: blue;
+    border-width: 0px;
+    border-style: solid;
+    height: 480px;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+    background-repeat: repeat-x;
+    margin-top: 190px;
+    
+    
+    
+}
+.cs{
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+    height: 900;
+    width: 800px; 
+    margin-right: auto;
+    margin-left: auto;
+   
+}
+.menu{
+    margin-right: auto;
+    margin-left: auto;
+}
+.hi{
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+    height: 200px;
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1px;
+    right: 24px;
+    height: 581px;
+    text-align:center;
+    
+}
+.hi2{
+    text-align:right;
+    
+    
+}
+img{
+    border-color: rgb(80, 80, 83);
+    border-width: 1px;
+    border-style: solid;
+    height: 390px;
+    width: 798px;
+}
+.hi3{
+    text-align:right;
+    color: rgb(96, 104, 65); 
+    display: inline;
+    direction: rtl;
+}
+.h4{
+    text-align:right;
+    color: rgb(96, 104, 65); 
+    display: inline;
+    direction: rtl;
+   
+    
+}
+.h5{
+    text-align:right;
+    color: rgb(96, 104, 65); 
+    display: inline;
+}
+.h5{
+    display: inline;
+    direction: rtl;
+   
+}
+.line{
+    text-align:center;
+     
+}
+.hi2 h4{
+    display: inline;
+    direction: rtl;
+}
+.aksam{
+    border-color: blue;
+    border-width: 2px;
+    border-style: solid;
+    height: 265px;
+    width: 998px;
+    margin-right: auto;
+    margin-left: auto;
+    direction: rtl;
+    margin-top: -2px;
+    color: rgb(27, 26, 26);
+}
+.aksam ul h2 {
+    border: black;
+    border-style: inset;
+    border-width: 1px;
+    width: 150px;
+    height: 40px;
+    text-align: right;
+    
+    font-size: 30px;
+    padding: 1px;
+    border-radius: 4px 5px 5px 20px;
+    background-color: rgb(65, 123, 231);
+    color: rgb(128, 60, 60);
+     
+}
+.aksam ul h2:hover{
+    box-shadow:3px 3px rgb(43, 41, 43); 
+    width: 167px;
+    background-image: url(file:///C:/Users/hp/Desktop/h8.PNG);
+}
+.aksam ul h1 {
+    border: black;
+    border-style: inset;
+    border-width: 1px;
+    width: 325px;
+    height: 40px;
+    text-align: right;
+    text-shadow: turquoise;
+    font-size: 30px;
+    padding: 1px;
+    border-radius: 4px;
+    background-color: rgb(65, 123, 231);
+}
+.aksam ul h1:hover{
+    box-shadow: 3px 3px  rgb(43, 41, 43);
+}
+.pdf{
+    background-color: rgb(43, 120, 179);
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-style: solid;
+    height: 300px;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    direction: rtl;
+    text-align: right;
+    margin-top: 1px;
+    
+}
+.pdf li a{
+    color: #000;
+}
+.pdf b{
+    color: rgb(255, 10, 10);
+}
+.pdf  a{
+    direction: rtl;
+    color: rgb(61, 56, 56);
+    right: 30px;
+    
+}
+.ppdf{ 
+    background-color: rgb(43, 120, 179);
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-style: solid;
+    height: 300px;
+    width: 1000px;
+    margin-right: 266px;
+    margin-left: 266px;
+    direction: rtl;
+    text-align:right;
+    margin-top: -1px;
+    margin-left: 166px;
+    
+}
+.ppdf b{
+    color: rgb(255, 0, 0);
+}
+.ppdf li a{
+    color: #000;
+}
+.pdf li :hover{
+    color: rgb(116, 39, 39);
+}
+.vi{
+    background-color: rgb(43, 120, 179);
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-style: solid;
+    height: 401px;
+    width: 1000px;
+    margin-right: 266px;
+    margin-left: 166px;
+    direction: rtl;
+    text-align:right;
+    margin-top: -1px;
+    text-decoration: none;
+    background-image: url(file:///C:/Users/hp/Desktop/mu.PNG);
+   
+
+}
+.vi ol li a{
+    color: #000;
+    font-size: 25px;
+}
+.vi a:hover{
+    color: red;
+}
+.vii h2{
+    color: rgb(255, 0, 0);
+   margin-right: 30px;
+   
+}
+.vii{
+    background-color: rgb(43, 120, 179);
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-style: solid;
+    height: 350px;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    direction: rtl;
+    text-align:right;
+    margin-top: -1px;
+}
+
+.vii a:hover{
+    color: red;
+}
+.vii ol li a{
+    color: #000;
+    font-size: 25px;
+    text-decoration: solid;
+}
+
+
+.vii b{
+    color:rgb(255, 0, 0) ;
+}
+.jass{
+    
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.ali{
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-style: solid;
+    height: 35px;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    direction: rtl;
+    font-size: 22px;
+    text-align: center;
+    color: rgb(75, 45, 45);
+}
+.ali{
+    color: rgb(187, 66, 66);
+    background-color: rgb(255, 255, 255);
+    font-family: 'Aref Ruqaa', serif;
+    margin-top: 0;
+}
+.ass1 ol {
+    direction: rtl;
+    border: rgb(28, 25, 221);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    background-color: royalblue;
+    border-style: solid;
+    margin-top: 0px;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 959px;
+    height:650px;
+    word-spacing: 1px;
+    direction: rtl;
+    color: rgb(24, 23, 23);
+    direction: rtl;
+    text-align:right;
+    margin-right: 164.7px;
+    background-image: url(file:///C:/Users/hp/Desktop/h6.PNG); 
+}
+.ass1 li{
+    margin-top: 10px;
+}
+.ass1 ol li a{
+    color: rgb(24, 23, 23);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+
+}
+.ass1 a:hover{
+    color:red;
+}
+
+.aksam a{
+    text-decoration: none;
+}
+.aksam{
+   background-image: url(file:///C:/Users/hp/Desktop/h8.PNG);
+  border-image: url();
+}
+.aksam h1:hover{
+    color: red;
+}
+.vi{
+    background-image: url(file:///C:/Users/hp/Desktop/html/img/mu.PNG);
+}
+.vi a{
+    text-decoration: none;
+}
+.vi b{
+    font-size: 25px;
+    margin-right: 27px;
+    color: red;
+    border: black;
+    border-style: inset;
+    border-width: 2px;
+    border-radius: 5px;
+}
+.vi li{
+    font-size: 18px;
+}
+#Main content{
+    width: 1000px;
+}
+
+.faceb{
+    width: 1000px;
+    margin-left: 166px;
+    font-size: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height:38px;
+    border-color: blue;
+    margin-top: 2px;
+    border-width: 1px;
+    border-style: solid;
+    background-color: white;
+
+    
+}
+.faceb h3{
+    margin-top: -37px;
+    margin-left: 125px;
+    color: rgb(204, 86, 86);
+    text-decoration: none;
+}
+.faceb h3:hover{
+    color: red;
+}
+.faceb h4{
+    margin-top: -53px;
+    margin-left: 300px;
+    color: rgb(42, 84, 148);
+    font-size: 23px;
+}
+.oo{
+   margin-top: -50px;
+   margin-left: 30px;
+}
+.o{
+    margin-top: -26px;
+    margin-left: 236px; 
+}
+.o h5{
+    margin-top: -36.5px;
+    color: rgb(0, 119, 255);
+    font-size: 22.7px;
+    text-decoration: none;
+    margin-left: 270px;
+    margin-top: -37px;
+   ]
+}
+.o h5:hover{
+    color: rgb(11, 150, 214);
+}
+.menu a:hover{
+    color: rgb(6, 16, 75);
+    
+}
+
+.home{
+    border: steelblue;
+    border-style: double;
+    border-width: 2px;
+    float: left;
+    width: 48%;
+    height: 450px;
+    margin-left: 166px;
+    margin-top: 1px;
+    width: 772px;
+    background-image: url(file:///C:/Users/hp/Desktop/html/img/eng.jpg);
+}
+.faceb i{
+    margin-top: -10px;
+}
+.jjj h3{
+    color: rgb(108, 110, 211);
+    margin-left: 305px;
+}
+.jjj{
+    margin-top: -42px;
+}
+.jj{
+    margin-top: -42px;
+}
+.jj h3{
+    color: rgb(108, 168, 236);
+    margin-left: 500px;
+}
+.h{
+    color: rgb(99, 56, 199);
+    text-align: right;
+}
+.h table{
+    background-image: url(file:///C:/Users/hp/Desktop/h8.PNG);
+}
+.h caption{
+    border: black;
+    border-width: 1px;
+    width: 224px;
+    height: 20px;
+    border-style: inset;
+}
+.h td{
+    color: #000;
+}
+.d{
+    border:black;
+    border-style: solid;
+    border-width: 1px;
+    width: 1000px;
+    height: 35px;
+    clear: both;
+    margin-left: 166px;
+    margin-top: 2px;
+}
+.d p {
+    text-align: center;
+}
+.jjj h3:hover{
+  color: rgb(62, 65, 218);
+}
+.jj h3:hover{
+    color: rgb(69, 145, 231);
+  }
+.jj a{
+    text-decoration: none;
+}
+.jjj a{
+    text-decoration: none;
+}
+.faceb a{
+    text-decoration: none;  
+}
+#zz {
+    border: blue;
+    border-width: 1px;
+    border-style: inset;
+    width: 1000px;
+    height: 200px;
+    margin-left: 166px;
+    margin-top: 1px;
+    background-image: url(file:///C:/Users/hp/Desktop/html/img/g.PNG);
+}
+.z{
+    margin-right: 59px;
+}
